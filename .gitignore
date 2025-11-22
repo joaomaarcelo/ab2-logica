@@ -1,0 +1,26 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações locais
+.vscode/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.out
+
+# Arquivos criados pelo Streamlit
+.streamlit/
+
+# PAstas de build e dist
+build/
+dist/
+*.egg-info/
